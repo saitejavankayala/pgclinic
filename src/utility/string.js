@@ -1,0 +1,23 @@
+export default {
+  rememberMe: 'REMEMBER ME',
+  forgotYourPassword: 'FORGOT YOUR PASSWORD ?',
+  login: 'LOGIN',
+  LOGIN_USING_UNIVERSITY_ID: 'LOGIN USING UNIVERSITY ID',
+  Bryant_University:
+    'https://login.microsoftonline.com/6c853569-e95e-4378-8926-ab9501a771a3/oauth2/authorize?client_id=0000000c-0000-0000-c000-000000000000&redirect_uri=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAAAMAAAAIVGVuYW50SWSrAVJZdm5IXy1jSlZiaFVNRVNYdGpjdFY5XzgtVVhBX213VUQ2VGowTFRGR0wtZnZEV1hlZGY4RTRCLWZMakhPSjVnS3lPdXEwbE95WkZraHVKUEJlWDFsQlRKZFNqNWJLRHN3QktzbmpGWHdjd1hiZjlnWmlJOExWR3h5UWVCWDJPWTdPdGw4VVVPeTFSSTZoR1RLVl8wMncwRWg3OGxFUWI0VmhJV3NicXV3NAkucmVkaXJlY3TwAWh0dHBzOi8vYWNjb3VudC5hY3RpdmVkaXJlY3Rvcnkud2luZG93c2F6dXJlLmNvbS9hcHBsaWNhdGlvbnMvcmVkaXJlY3R0b2FwcGxpY2F0aW9uLmFzcHg_T3BlcmF0aW9uPUxpbmtlZFNpZ25JbiZhcHBsaWNhdGlvbkxpbmtOYW1lPWdhbWUlMjBwbGFuJmFwcGxpY2F0aW9uSWQ9OTE0ZGQ2NjYtZTg5My00M2I1LThlYTUtNDUwN2MxMTZhMWViJnRlbmFudElkPTZjODUzNTY5LWU5NWUtNDM3OC04OTI2LWFiOTUwMWE3NzFhMx5PcGVuSWRDb25uZWN0LkNvZGUuUmVkaXJlY3RVcmnAAWRON2dWMDQ0YUVkOGpad29JTUFZWXpZb25DS083cjl2LXl2QVNhS21BM1g4b1g5V09mODkzdUpQZWtxQlpUTHA2LUtDZnMyUUxWWnpkc3dQRGw4eE9mT1d3dTZHcXFpal9KRUI3WWxmZkVaOXUwODI4T0dJeGNlaFJLU3ZTRDczaFBSem5GWWxfZXNvemdHMDZTeGVSTGdub3dXNFBzTUJ5Sk9kVFdSS0FDV2kzTXNHTXFnU3VSa2ZqenF5cGVlNw&nonce=1632910649.WWDZbFGBuGTidKzq2YDFpQ&nux=1',
+  SELECT: 'Type in or Select Your University Below',
+  EMAIL_EMPTY: 'Email Field Cannot Be Empty!',
+  PASSWORD_EMPTY: 'Password Field Cannot Be Empty!',
+  Username: 'Username',
+  Email: 'Email',
+  Phone: 'Phone',
+  Password: 'Password',
+  Confirm_Password: 'Confirm Password',
+  Email_Keypad_Type: 'email-address',
+  LARGE: 'large',
+  ABOUT_US_URL: 'https://tudip.com/about-us/',
+  Activities_to_complete: 'Activities to Complete',
+  Created: 'Created',
+  Due: 'Due',
+  completions: 'completions',
+};
